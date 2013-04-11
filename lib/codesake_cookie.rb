@@ -1,0 +1,1 @@
+require "codesake/cookie/version"
